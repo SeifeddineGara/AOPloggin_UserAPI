@@ -1,0 +1,17 @@
+com\test\atos\dto\UserResponse.class
+com\test\atos\exception\CustomExceptionHandler.class
+com\test\atos\exception\ResourceNotFoundException.class
+com\test\atos\exception\ValidationException.class
+com\test\atos\entity\User$Gender.class
+com\test\atos\repository\UserRepository.class
+com\test\atos\mapper\UserMapperImpl.class
+com\test\atos\service\UserService.class
+com\test\atos\dto\UserRequest.class
+com\test\atos\entity\User.class
+com\test\atos\AtosApplication.class
+com\test\atos\aspect\LoggingAspect.class
+com\test\atos\dto\UserRequest$UserRequestBuilder.class
+com\test\atos\entity\User$UserBuilder.class
+com\test\atos\mapper\UserMapper.class
+com\test\atos\controller\UserController.class
+com\test\atos\dto\UserResponse$UserResponseBuilder.class
